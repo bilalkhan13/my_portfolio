@@ -64,7 +64,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>React</h4>
-                <small>Basic</small>
+                <small>Intermediate</small>
               </div>
             </article>
           </div>
@@ -159,7 +159,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>Wordpress</h4>
-                <small>Intermediate</small>
+                <small>Basic</small>
               </div>
             </article>
 
@@ -167,7 +167,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>Github</h4>
-                <small>Intemediate</small>
+                <small>Experienced</small>
               </div>
             </article>
           </div>
