@@ -17,7 +17,7 @@ const Services = () => {
           <ul className='service__list'>
           <li>
             <BiCheck className='service__list-icon'/>
-            <p>React Development {"("}Front-end only{")"}</p>
+            <p>React Development</p>
           </li>
 
           <li>

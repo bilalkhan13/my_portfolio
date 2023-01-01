@@ -17,6 +17,10 @@ header {
   justify-content: center;
 }
 
+.cta .btn:hover {
+  border: 1px solid transparent;
+}
+
 .header__socials {
   display: flex;
   flex-direction: column;
